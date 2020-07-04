@@ -36,10 +36,11 @@
 - [Recoil Webpack Module Federation Example](https://github.com/jherr/wp5-recoil)
 - [Expense Tracker Example](https://github.com/japiirainen/recoilJS-expense-tracker)
 
-## Typescript
+### Typescript
 - [Recoil Data Fetching Example](https://github.com/sibelius/recoil-data-fetching)
 - [Recoil Sandbox](https://github.com/takefumi-yoshii/recoil-sandbox) - next example with factory pattern for atoms
 - [React Monorepo Todos](https://github.com/Streeterxs/recoil-monorepo-todos) - react/native/web/server
+
 ## Articles
 - [Recoil.js: Efficient state management and better render performance in React Apps.](http://medium.com/@sk950121/recoil-js-efficient-state-management-and-better-render-performance-in-react-apps-f3aaf7df96ba)
 
